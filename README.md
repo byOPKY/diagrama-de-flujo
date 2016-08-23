@@ -4,7 +4,7 @@
 <ol> 
 <h3>Lista Pseudocodigos </h3>
         <li>INICIO</li>
-        <li>MIRAR ANUNCIO<li>
+        <li>MIRAR ANUNCIO</li>
         <li>¿QUÉ PEDIR?</li>
         <ul>
         <li>POLLO</li>
