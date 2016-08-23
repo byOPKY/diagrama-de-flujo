@@ -1,7 +1,7 @@
 # DIAGRAMA DE FLUJO
 <a href="http://es.tinypic.com?ref=16c5son" target="_blank"><img src="http://i67.tinypic.com/16c5son.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<ol> Lista Pseudocodigos 
+<ol> <h3>Lista Pseudocodigos </h3>
         <li>INICIO</li>
         <li>¿QUÉ PEDIR?</li>
         <ul>
@@ -20,4 +20,11 @@
         <li>FIN</li>
 </ol>
 
-CONTEXTO: PEDIR UN DELIVERY
+<h3>CONTEXTO:</h3> Para hacer UN DELIVERY se uso de simbolos:
+<ul>
+<li>Inicio /fin</li>
+<li>Desicion</li>
+<li>Proceso</li>
+<li>Subrutina</li>
+<li>Lineas de flujo</li>
+</ul>
