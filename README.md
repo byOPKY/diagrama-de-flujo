@@ -5,7 +5,7 @@
         <li>INICIO</li>
         <li>¿QUÉ PEDIR?</li>
         <ul>
-        <li>POLLO<li>
+        <li>POLLO</li>
         <li>CARNE</li>
         </ul>
         <li>LLAMAR</li>
